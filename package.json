@@ -1,0 +1,13 @@
+{
+  "name": "movie-api-graphql",
+  "version": "1.0.0",
+  "description": "Movie API with GraphQL",
+  "main": "index.js",
+  "repository": "https://github.com/soobing/movie-api-graphql",
+  "author": "soobing<qls0147@naver.com>",
+  "license": "MIT",
+  "private": "true",
+  "dependencies": {
+    "graphql-yoga": "^2.4.0"
+  }
+}
